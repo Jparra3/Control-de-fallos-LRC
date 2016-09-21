@@ -1,0 +1,9 @@
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\bin\Debug\LRC.exe.config
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\bin\Debug\LRC.exe
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\bin\Debug\LRC.pdb
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\obj\Debug\LRC.csprojResolveAssemblyReference.cache
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\obj\Debug\LRC.Form1.resources
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\obj\Debug\LRC.Properties.Resources.resources
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\obj\Debug\LRC.csproj.GenerateResource.Cache
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\obj\Debug\LRC.exe
+c:\users\jhonatan\documents\visual studio 2015\Projects\LRC\LRC\obj\Debug\LRC.pdb
